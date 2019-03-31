@@ -1,2 +1,11 @@
-# bigdata_note
-大数据学习笔记，共12万字，介绍了大数据组件的安装、原理及使用
+# 目录
+![](https://github.com/linwt/bigdata_note/blob/master/catalog/1.png)  
+![](https://github.com/linwt/bigdata_note/blob/master/catalog/2.png)  
+![](https://github.com/linwt/bigdata_note/blob/master/catalog/3.png)  
+![](https://github.com/linwt/bigdata_note/blob/master/catalog/4.png)  
+![](https://github.com/linwt/bigdata_note/blob/master/catalog/5.png)  
+![](https://github.com/linwt/bigdata_note/blob/master/catalog/6.png)  
+# 练习项目
+* [SparkSQL 慕课网日志分析及可视化展示](https://github.com/linwt/Imooc-SparkSQL)  
+* [SparkStreaming 爱奇艺实时流统计及可视化展示](https://github.com/linwt/Aiqiyi-SparkStreaming)  
+* [SparkMLlib 智慧交通项目](https://github.com/linwt/TrafficForecast-SparkMLlib)  
